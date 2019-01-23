@@ -1,0 +1,32 @@
+C:\Users\pepek\Desktop\SETPaint\SETPaint\obj\Debug\mójPaint.csprojAssemblyReference.cache
+C:\Users\pepek\Desktop\SETPaint\SETPaint\obj\Debug\mójPaint.About.resources
+C:\Users\pepek\Desktop\SETPaint\SETPaint\obj\Debug\mójPaint.Paint.resources
+C:\Users\pepek\Desktop\SETPaint\SETPaint\obj\Debug\mójPaint.csproj.GenerateResource.cache
+C:\Users\pepek\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.exe
+C:\Users\pepek\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
+C:\Users\pepek\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+C:\Users\pepek\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\pepek\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\pepek\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+C:\Users\pepek\Desktop\SETPaint\SETPaint\obj\Debug\mójPaint.csproj.CoreCompileInputs.cache
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\bin\Debug\SETPaint.exe.config
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\obj\Debug\mójPaint.csprojAssemblyReference.cache
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\obj\Debug\mójPaint.About.resources
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\obj\Debug\mójPaint.Paint.resources
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\obj\Debug\mójPaint.csproj.GenerateResource.cache
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\obj\Debug\mójPaint.csproj.CoreCompileInputs.cache
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\obj\Debug\SETPaint.exe
+C:\Users\pepek\Desktop\SETPaint - Kopia\SETPaint\obj\Debug\SETPaint.pdb
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\bin\Debug\SETPaint.exe.config
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\obj\Debug\mójPaint.csprojAssemblyReference.cache
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\obj\Debug\mójPaint.Paint.resources
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\obj\Debug\mójPaint.csproj.GenerateResource.cache
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\obj\Debug\mójPaint.csproj.CoreCompileInputs.cache
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\obj\Debug\SETPaint.exe
+C:\Users\pepek\Desktop\mójPaint v2\SETPaint\obj\Debug\SETPaint.pdb
